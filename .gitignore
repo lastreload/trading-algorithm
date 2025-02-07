@@ -1,0 +1,5 @@
+trading-env/
+__pycache__/
+*.pyc
+.env
+code
