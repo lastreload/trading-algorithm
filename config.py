@@ -1,8 +1,8 @@
 # config.py
 
 # Configurazione API Binance
-BINANCE_API_KEY = "INSERISCI_LA_TUA_API_KEY"
-BINANCE_SECRET_KEY = "INSERISCI_LA_TUA_SECRET_KEY"
+BINANCE_API_KEY = "LT0leaChxC8jURHqORjNv6nlO8jDfegFhgN8zd6jKDosoSIHCKgue0kjFQ5uNRHh"
+BINANCE_SECRET_KEY = "ZF7nvQlPRhtqtrVfjBKLdvqjZmKNt0VIxsjqLUeix3NjZuTAVVqOAixClmkG4xrG"
 
 # Altre configurazioni, ad esempio per le fonti di sentiment
 TWITTER_API_KEY = "..."
